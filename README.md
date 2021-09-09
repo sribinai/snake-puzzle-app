@@ -1,1 +1,1 @@
-# snake-puzzle-app1
+# snake-puzzle-app
